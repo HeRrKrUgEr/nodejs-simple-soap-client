@@ -4,15 +4,15 @@ A simple, intuitive SOAP client with authentication capabilities and user-friend
 
 ## Features
 
-- 🔗 Easy connection to SOAP services via WSDL
-- 🔐 Multiple authentication methods (Basic, WS-Security, Cookie)
-- 🍪 **Session cookie management with domain persistence**
-- 📋 Automatic service discovery and method listing
-- ⚡ Interactive execution of SOAP methods
-- 🔑 **Execute authentication methods that return session cookies**
-- 💾 Connection profile management
-- 🎨 Colorful and intuitive CLI interface
-- 🔍 WSDL parsing and analysis
+-  Easy connection to SOAP services via WSDL
+-  Multiple authentication methods (Basic, WS-Security, Cookie)
+-  **Session cookie management with domain persistence**
+-  Automatic service discovery and method listing
+-  Interactive execution of SOAP methods
+-  **Execute authentication methods that return session cookies**
+-  Connection profile management
+-  Colorful and intuitive CLI interface
+-  WSDL parsing and analysis
 
 ## Installation
 
