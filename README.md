@@ -157,11 +157,11 @@ if (authResult.success) {
 ```
 
 **Key Features:**
-- 🍪 **Automatically captures cookies from ANY SOAP method response**
-- 🌐 Persists cookies by domain - when switching between services on the same domain, cookies are preserved
-- 🔄 Cookies are applied to all subsequent SOAP calls within the session
-- 🗂️ View and manage stored cookies by domain
-- ✨ **No special authentication methods needed** - just execute your service's login/auth method normally
+-  **Automatically captures cookies from ANY SOAP method response**
+-  Persists cookies by domain - when switching between services on the same domain, cookies are preserved
+-  Cookies are applied to all subsequent SOAP calls within the session
+- 🗂 View and manage stored cookies by domain
+-  **No special authentication methods needed** - just execute your service's login/auth method normally
 
 ## Configuration
 
@@ -235,13 +235,13 @@ npm start
 > Execute a method (auto-captures cookies)
 > Select method: Authenticate
 > Parameters: {"username": "user", "password": "pass"}
-# 🍪 Session cookies captured for domain example.com
+#  Session cookies captured for domain example.com
 
 # Connect to different service on same domain
 > Connect to a service
 > Enter WSDL URL: http://example.com/PropService.svc?wsdl
-# 🍪 Applied existing cookies for domain example.com
-# 🔗 These cookies will be used for all requests to example.com
+#  Applied existing cookies for domain example.com
+#  These cookies will be used for all requests to example.com
 
 # Execute method on new service - cookies automatically included
 > Execute a method (auto-captures cookies)
