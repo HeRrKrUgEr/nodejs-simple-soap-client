@@ -1,6 +1,6 @@
 # SOAP Client
 
-A simple, intuitive SOAP client with authentication capabilities and user-friendly interface.
+A simple SOAP client made with NodweJS, with authentication capabilities and user-friendly cli interface.
 
 ## Features
 
